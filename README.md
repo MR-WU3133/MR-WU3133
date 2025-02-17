@@ -1,3 +1,4 @@
+- **程式下載:[點我前往](https://github.com/MR-WU3133/mnemonic-encrypt)**
 - **官方網站：[點我前往](https://mnemonic-encryption-tool.mystrikingly.com)**
 - **免費助記詞加密工具:[點我前往](https://github.com/MR-WU3133/mnemonic-encrypt.git)**
 - **Telegram官方頻道:[點我加入](https://t.me/encryptiontoolWU)**
